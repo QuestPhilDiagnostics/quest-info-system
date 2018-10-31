@@ -1,0 +1,101 @@
+body{
+  background-color: #fff;
+}
+  .form-control
+  {
+    margin-bottom: 10px;
+    width:300px;
+  }
+  .navbar-default {
+    background-color: #2980b9;
+}
+
+.navbar-default .navbar-nav > li > a {
+    font-family: "Calibri";
+    font-size: 20px;
+    font-weight: bold;
+    color:#fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #000;
+}
+
+
+.navbar-default .navbar-text {
+    color: #FFF;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #fff;
+    color: #000000;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
+
+.card {
+  border: 1px solid #00b7ff;
+}
+  .card-header
+  {
+    background-color: #00b7ff;
+    font-family: "Calibri";
+    font-size: 24px;
+    color: #000000;
+    padding: 15px;
+    font-weight: bold;
+  }
+
+  .card-block
+  {
+    background-color: #eae8e8;
+    font-family: "Century Gothic";
+    font-size: 18px;
+  }
+  .checkbox{
+
+    font-family: "Century Gothic";
+    font-size: 18px;
+  }
+  }
+  .card-block input
+  {
+    font-family: "Century Gothic";
+    font-size: 18px;
+  }
+  .card-block select
+  {
+    font-family: "Century Gothic";
+    font-size: 18px;
+  }
+  .col p
+  {
+    text-transform: uppercase;
+  }
+    .modal-header
+  {
+    background-color: #4f4f4f;
+    font-family: "Century Gothic";
+    font-size: 18px;
+    color: #fff;
+    font-weight: bolder;
+   border: 1px solid #4f4f4f;
+  }
+  .modal-body {
+}
+
+.logo{
+  float: left;
+  padding-top: -30px;
+  margin-top: -10px;
+
+}
+
